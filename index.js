@@ -296,5 +296,5 @@ const createInstance = {
 };
 
 // processEvent(createUserEvent);
-// processEvent(signinEvent);
-processEvent(createInstance);
+processEvent(signinEvent);
+// processEvent(createInstance);
